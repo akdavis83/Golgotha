@@ -1,4 +1,4 @@
-threex.bubble
+# threex.bubble
 =============
 
 It is a 
@@ -7,7 +7,7 @@ for
 [three.js](http://threejs.org)
 which provide realistic bubble with [fresnel effect](http://en.wikipedia.org/wiki/Fresnel_equations).
 
-Show Don't Tell
+Examples:
 ===============
 * [examples/basic.html](http://jeromeetienne.github.io/threex.bubble/examples/basic.html)
 \[[view source](https://github.com/jeromeetienne/threex.bubble/blob/master/examples/basic.html)\] :
@@ -32,13 +32,13 @@ You can install it via script tag
 <script src='threex.bubble.js'></script>
 ```
 
-Or you can install with [bower](http://bower.io/), as you wish.
+Or you can install with [bower](http://bower.io/).
 
 ```bash
 bower install threex.bubble
 ```
 
-How To Use It
+Usage:
 =============
 
 You can create a bubble with those simple lines. You create the mesh and adds it to the scene.
